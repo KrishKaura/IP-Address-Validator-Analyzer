@@ -1,12 +1,12 @@
 # IP Address Validator-Analyzer
 
-## 📌 Overview
+##  Overview
 This Python project validates and analyzes IPv4 and IPv6 addresses from a text file.  
 It classifies IPs, separates valid/invalid entries, and generates network information.
 
 ---
 
-## ⚙️ Features
+##  Features
 - IPv4 and IPv6 validation
 - Reads IPs from input file (`list_ips.txt`)
 - Separates valid and invalid IPs
@@ -24,7 +24,7 @@ It classifies IPs, separates valid/invalid entries, and generates network inform
 
 ---
 
-## 🚀 Version Updates
+##  Version Updates
 
 ### v1.0
 - IPv4 address validation and analysis
@@ -37,6 +37,6 @@ It classifies IPs, separates valid/invalid entries, and generates network inform
 - Improved classification and reporting
 
   
-## 📂 Input Format
+##  Input Format
 Each line in `list_ips.txt` should contain one IP address.  
 The input file name can be customized in the source code.
